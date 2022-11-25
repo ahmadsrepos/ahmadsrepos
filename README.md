@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## About me
+
+Hi, I'm Ahmad. Backend Developer (Laravel).
+
+| Rank | Skill     |
+|-----:|-----------|
+|     1| PHP       |
+|     2| Python    |
+|     3| SQL       |
+
 <!--
 **ahmadsrepos/ahmadsrepos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
