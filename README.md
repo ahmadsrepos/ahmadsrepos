@@ -9,7 +9,7 @@ Hi, I'm Ahmad. Backend Developer (Laravel).
 |-----:|------------|
 |     1| PHP        |
 |     2| Laravel    |
-|     3| Mysql      |
+|     3| MySql      |
 |     3| JS (ES6)   |
 |     3| Jquery     |
 |     3| API        |
