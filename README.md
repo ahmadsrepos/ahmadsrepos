@@ -3,13 +3,16 @@
 ## About me
 
 Hi, I'm Ahmad. Backend Developer (Laravel).
+- 🌱 I’m currently learning VueJs
 
-| Rank | Skill     |
-|-----:|-----------|
-|     1| PHP       |
-|     2| Python    |
-|     3| SQL       |
-
+| Rank | Skill      |
+|-----:|------------|
+|     1| PHP        |
+|     2| Laravel    |
+|     3| Mysql      |
+|     3| JS (ES6)   |
+|     3| Jquery     |
+|     3| API        |
 <!--
 **ahmadsrepos/ahmadsrepos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
